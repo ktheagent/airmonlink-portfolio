@@ -161,6 +161,25 @@ Private projects can be demonstrated during appropriate interviews or technical 
 
 **John Dadzie**
 
+## Selected Development Evidence
+
+The complete source code for production and commercial systems is maintained privately. The screenshots below show selected development, release-build, repository-management and WordPress product work without exposing credentials, customer information or private business logic.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="screenshots/airmonlink-mathematics-release-build.png" alt="Airmonlink Mathematics Android release build" width="100%">
+<br><strong>Airmonlink Mathematics — Android Release Build</strong><br>
+Validated Android APK and app-bundle release outputs for the KG1-to-JHS3 mathematics learning application.
+</td>
+<td width="50%" valign="top">
+<img src="screenshots/airmonlink-online-school-release-build.png" alt="Airmonlink Online School Android release build" width="100%">
+<br><strong>Airmonlink Online School — Release Build</strong><br>
+Flutter project structure and compiled Android application output for the online-learning platform.
+</td>
+</tr>
+</table>
+
 - Location: Accra, Ghana
 - Email: apps@airmonlink.com
 - Website: https://airmonlink.com
